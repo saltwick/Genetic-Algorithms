@@ -7,4 +7,6 @@ This repository includes my experimentations with implementing genetic algorithm
 
 Inspired by Dan Shiffman's "The Coding Train" video: Coding Challenge #29: Smart Rockets in p5.js
 
+View the demo on [my website](http://saltwick.com/demo/p5_Genetic)
+
 
